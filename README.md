@@ -27,7 +27,7 @@ python main.py
 **Requirements:** Python 3.8+
 
 ```bash
-git clone [https://github.com/your-username/face-presence-detection.git](https://github.com/namanbhola1888/face-detection.git)
+git clone https://github.com/namanbhola1888/face-detection.git
 cd face-presence-detection
 
 python -m venv venv
