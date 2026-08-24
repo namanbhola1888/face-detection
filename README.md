@@ -27,7 +27,7 @@ python main.py
 **Requirements:** Python 3.8+
 
 ```bash
-git clone https://github.com/your-username/face-presence-detection.git
+git clone [https://github.com/your-username/face-presence-detection.git](https://github.com/namanbhola1888/face-detection.git)
 cd face-presence-detection
 
 python -m venv venv
@@ -56,11 +56,6 @@ python main.py
 3. Face found → **Active** immediately
 4. No face for 2 seconds → **Away**
 5. Draw face boxes and status on screen
-
-## Documentation
-
-- [ARCHITECTURE.md](ARCHITECTURE.md) — components, data flow, design decisions
-- [IMPLEMENTATION.md](IMPLEMENTATION.md) — function-by-function explanation and internship talking points
 
 ## Tech Stack
 
